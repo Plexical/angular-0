@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "scripts": {
     "start": "npm run lite",
-    "lite": "lite-server"
+    "lite": "lite-server",
+    "es6-poc": "babel-node import-es6.js"
   },
   "license": "ISC",
   "dependencies": {
